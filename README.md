@@ -38,8 +38,8 @@ A Biotechnology graduate from the University of Central Punjab with a strong int
 
 ## Let's connect
 
-- LinkedIn: [Add your LinkedIn URL here]
-- Email: [Add your email here]
+- LinkedIn: [Muneeb Shahzad]
+- Email: [shahzadmuneeb15@gmail.com]
 - Location: Sahiwal, Pakistan — open to remote and international opportunities
 
 ---
