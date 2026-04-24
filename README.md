@@ -1,47 +1,42 @@
-# Hi, I'm Muneeb Shahzad
+# Hi, I'm Muneeb Shahzad 👋
 
-A Biotechnology graduate from the University of Central Punjab with a strong interest in bioinformatics, computational biology, and pharmaceutical quality control. I enjoy working at the intersection of biology and data — building pipelines, analysing sequences, and solving problems with Python.
-
----
-
-## About me
-
-- BS Biotechnology — University of Central Punjab
-- Focused on bioinformatics, QC/R&D, and computational approaches to biology
-- Experienced in both wet lab and dry lab environments
-- Open to bioinformatics roles, QC/R&D positions, and research opportunities globally
-- Planning to pursue a Masters in bioinformatics or computational biology abroad
+🎓 Final-year Biotechnology student | Lahore, Pakistan  
+💊 Passionate about Computational Drug Discovery & Bioinformatics  
+🌍 Open to remote roles, paid internships & MSc opportunities in UK/Germany
 
 ---
 
-## Skills
+## 🔬 Technical Skills
 
-**Bioinformatics & Computation**
-- Python · Biopython · BLAST · Sequence analysis · Phylogenetic analysis
-- Data analysis with pandas and NumPy
-- Linux / bash command line
+**Bioinformatics & Computational**
+- Molecular Docking (AutoDock Vina)
+- Virtual Screening & Network Pharmacology
+- Structural Bioinformatics (PyMOL, AlphaFold)
+- Python (Biopython) | R | Linux CLI
 
-**Wet Lab & Pharma**
-- HPLC · Cell culture · Microbiology · Dissolution testing
-- GMP / GLP basics · Pharmacopoeia (USP, BP)
-- Analytical techniques and quality control
-
----
-
-## What I'm working on
-
-- Building bioinformatics projects using public datasets (NCBI, UniProt, Ensembl)
-- Strengthening my Python pipeline skills for genomics and sequence analysis
-- Preparing applications for Masters programmes in bioinformatics abroad
+**Wet Lab**
+- PCR & Molecular Techniques
+- Cell Culture & Microbiology
+- ELISA & Immunology Assays
+- Chromatography & Downstream Processing
+- GMP & Quality Control
 
 ---
 
-## Let's connect
+## 🧪 Featured Project
 
-- LinkedIn: [Muneeb Shahzad]
-- Email: [shahzadmuneeb15@gmail.com]
-- Location: Sahiwal, Pakistan — open to remote and international opportunities
+### 💊 Phytochemical Screening for Pulmonary Fibrosis
+In silico drug discovery pipeline screening natural phytochemicals  
+against Integrin-αv as a therapeutic target for IPF treatment.  
+**Tools:** AutoDock Vina · PyMOL · AlphaFold · SwissADME  
+👉 [View Project](https://github.com/muneeb-shahzadd/phytochemical-screening-pulmonary-fibrosis)
 
 ---
 
-*Always open to collaborations, research opportunities, and interesting problems in bioinformatics and computational biology.*
+## 📫 Let's Connect
+
+- 💼 Open to: Remote bioinformatics roles | QC/QA positions | Paid internships
+- 🌐 Willing to relocate: UK · Germany · UAE · Europe (visa sponsored)
+- 📧 Reach me on LinkedIn ↓
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muneeb%20Shahzad-blue?logo=linkedin)](YOUR_LINKEDIN_URL_HERE)
